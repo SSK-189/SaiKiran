@@ -1,0 +1,11 @@
+﻿Continent,Country,Region,SalesTerritoryKey
+Europe,France,France,7
+Europe,Germany,Germany,8
+Europe,United Kingdom,United Kingdom,10
+North America,Canada,Canada,6
+North America,United States,Central,3
+North America,United States,Northeast,2
+North America,United States,Northwest,1
+North America,United States,Southeast,5
+North America,United States,Southwest,4
+Pacific,Australia,Australia,9
